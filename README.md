@@ -34,6 +34,7 @@ mix deps.get
 mix test
 ```
 
+
 At this point you should see a single failing test (`TEST 1: literals`). Open up
 `test/machete_demo_test.exs` in your editor and follow along to the instructions
 therein. Once you make your way to the end of that file, you're done!
