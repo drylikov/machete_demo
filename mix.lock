@@ -1,0 +1,3 @@
+%{
+  "machete": {:hex, :machete, "0.2.7", "3712b66592764fd559d163d8403014fc18b6e7de9f26dcab9d85801b5bd0c198", [:mix], [], "hexpm", "c5071e913e240bfde5309dbc4c2137b4f7935147798f99112b2d6963705a3d8a"},
+}
